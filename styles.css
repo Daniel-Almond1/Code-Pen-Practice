@@ -1,0 +1,29 @@
+section#menu {
+    width: 800px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  h1,
+  h3 {
+    font-family: Tahoma;
+    color: green;
+    margin-top: 40px;
+  }
+  
+  h1 {
+    margin-right: 50px;
+    font-size: 30px;
+    color: #2eab93;
+    font-family: Tahoma;
+  }
+  section#menu h3 {
+    font-size: 22px;
+    font-family: Tahoma;
+  }
+  h2 {
+    color: green;
+    font-family: Tahoma;
+    font-size: 29px;
+  }
+  
